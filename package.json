@@ -1,0 +1,24 @@
+{
+  "name": "Experience_Next_Antd",
+  "version": "1.0.0",
+  "description": "Experience next.js and antd.",
+  "keywords": [],
+  "author": "Josmy Jose",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.15.1",
+    "babel-plugin-import": "^1.11.0",
+    "babel-plugin-inline-import": "^3.0.0",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "uuid": "^3.3.2"
+  },
+  "main": "index.js"
+}
